@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/translator-demo/static/css/main.2bb90d79.chunk.css",
+    "main.js": "/translator-demo/static/js/main.fbd71292.chunk.js",
+    "main.js.map": "/translator-demo/static/js/main.fbd71292.chunk.js.map",
+    "runtime-main.js": "/translator-demo/static/js/runtime-main.d4746c64.js",
+    "runtime-main.js.map": "/translator-demo/static/js/runtime-main.d4746c64.js.map",
+    "static/js/2.ebc718c5.chunk.js": "/translator-demo/static/js/2.ebc718c5.chunk.js",
+    "static/js/2.ebc718c5.chunk.js.map": "/translator-demo/static/js/2.ebc718c5.chunk.js.map",
+    "index.html": "/translator-demo/index.html",
+    "static/css/main.2bb90d79.chunk.css.map": "/translator-demo/static/css/main.2bb90d79.chunk.css.map",
+    "static/js/2.ebc718c5.chunk.js.LICENSE.txt": "/translator-demo/static/js/2.ebc718c5.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/translator-demo/static/media/getFetch.d7d6010d.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4746c64.js",
+    "static/js/2.ebc718c5.chunk.js",
+    "static/css/main.2bb90d79.chunk.css",
+    "static/js/main.fbd71292.chunk.js"
+  ]
+}
