@@ -1,0 +1,10 @@
+{
+    "title": "Witaj w aplikacji react używającej react-i18next",
+    "description": {
+        "part1": "Aby rozpocząć, edytuj <1>src/App.js</1> i zapisz aby przeładować.",
+        "part2": "zmieniaj języki pomiędzy angielskim i polskim klikająć przyciski powyżej."
+    },
+    "newMessages": "Masz jedną wiadomość.",
+    "newMessages_1": "Masz {{count}} wiadomości.",
+    "newMessages_2": "Masz {{count}} wiadomości."
+}
